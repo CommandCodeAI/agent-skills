@@ -64,6 +64,7 @@ Skills work seamlessly with **Command Code**  providing consistent, high-quality
 
 ### Content & Communication
 
+- **[Memory Engine](skills/memory-engine/)** - Store and retrieve long-term knowledge across sessions with semantic naming and hybrid search. Use when you need to remember decisions, recall past context, or search what was discussed or built in a previous session.
 - **[Content Research Writer](skills/content-research-writer/)** - Assists in writing high-quality content by conducting research, adding citations, improving hooks, and providing section-by-section feedback.
 - **[Internal Comms](skills/internal-comms/)** - Helps write internal communications including 3P updates, company newsletters, FAQs, status reports, and project updates using company-specific formats.
 - **[Meeting Insights Analyzer](skills/meeting-insights-analyzer/)** - Analyzes meeting transcripts to uncover behavioral patterns including conflict avoidance, speaking ratios, filler words, and leadership style.
@@ -98,6 +99,7 @@ Skills work seamlessly with **Command Code**  providing consistent, high-quality
 
 ### Workflow Automation
 
+- **[Site Automation](skills/site-automation/)** - Manage website content via automation APIs. Sync GitHub projects, generate changelogs, create posts, send newsletters, and manage comments. Use for any website content management task.
 - **[File Organizer](skills/file-organizer/)** - Intelligently organizes files and folders by understanding context, finding duplicates, and suggesting better organizational structures.
 - **[Invoice Organizer](skills/invoice-organizer/)** - Automatically organizes invoices and receipts for tax preparation by reading files, extracting information, and renaming consistently.
 - **[Raffle Winner Picker](skills/raffle-winner-picker/)** - Randomly selects winners from lists, spreadsheets, or Google Sheets for giveaways and contests with cryptographically secure randomness.
