@@ -49,6 +49,7 @@ Skills work seamlessly with **Command Code**  providing consistent, high-quality
 - **[Webapp Testing](skills/webapp-testing/)** - Tests local web applications using Playwright for verifying frontend functionality, debugging UI behavior, and capturing screenshots.
 - **[Writing Plans](skills/writing-plans/)** - Activates with approved design. Breaks work into bite-sized tasks (2-5 minutes each) with exact file paths, complete code, and verification steps.
 - **[Writing Skills](skills/writing-skills/)** - Test-driven development for creating and editing skills. Write test cases, watch them fail, write the skill, watch tests pass, and refactor to close loopholes.
+- **[Agent Cards Skill](https://github.com/agent-cards/skill)** - Manage prepaid virtual Visa cards for AI agents. Create cards, check balances, view credentials, close cards, and get support via MCP tools.
 
 ### Cloud Infrastructure & AWS
 
