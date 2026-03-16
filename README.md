@@ -84,6 +84,7 @@ Skills work seamlessly with **Command Code**  providing consistent, high-quality
 - **[Competitive Ads Extractor](skills/competitive-ads-extractor/)** - Extracts and analyzes competitors' ads from ad libraries to understand messaging and creative approaches that resonate.
 - **[Domain Name Brainstormer](skills/domain-name-brainstormer/)** - Generates creative domain name ideas and checks availability across multiple TLDs including .com, .io, .dev, and .ai extensions.
 - **[Lead Research Assistant](skills/lead-research-assistant/)** - Identifies and qualifies high-quality leads by analyzing your product, searching for target companies, and providing actionable outreach strategies.
+- **[Product Manager Skills](https://github.com/Digidai/product-manager-skills)** - Senior PM agent with 6 knowledge domains, 12 templates, and 30+ frameworks covering discovery, strategy, delivery, SaaS metrics, PM career coaching (IC to CPO), and AI product craft.
 
 ### Document Management
 
