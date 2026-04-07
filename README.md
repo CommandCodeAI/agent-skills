@@ -160,6 +160,9 @@ Detailed description of the skill's purpose and capabilities.
 ```
 
 
+## Related Projects
+
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw
 ## Contributing
 
 We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) for details on how to contribute to this project.
