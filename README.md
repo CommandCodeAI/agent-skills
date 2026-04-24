@@ -169,3 +169,4 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 - Follow us on [X](https://x.com/CommandCode_ai) for updates and news.
 - Join our [Discord](https://langbase.com/discord) for support and discussion.
+- Browse [Skills宝](https://skilery.com) to search and install AI Skills in Chinese across Claude Code, OpenCode, and more.
