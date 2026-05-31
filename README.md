@@ -81,6 +81,7 @@ Skills work seamlessly with **Command Code**  providing consistent, high-quality
 ### Business Operations
 
 - **[Brand Guidelines](skills/brand-guidelines/)** - Applies brand colors and typography to artifacts for consistent visual identity and professional design standards.
+- **[Before You Build](skills/before-you-build/)** - Pressure-tests a product idea, landing page, MVP, or major feature before implementation by checking demand, positioning, monetization, retention, trust, distribution, and feature-adoption risk.
 - **[Competitive Ads Extractor](skills/competitive-ads-extractor/)** - Extracts and analyzes competitors' ads from ad libraries to understand messaging and creative approaches that resonate.
 - **[Domain Name Brainstormer](skills/domain-name-brainstormer/)** - Generates creative domain name ideas and checks availability across multiple TLDs including .com, .io, .dev, and .ai extensions.
 - **[Lead Research Assistant](skills/lead-research-assistant/)** - Identifies and qualifies high-quality leads by analyzing your product, searching for target companies, and providing actionable outreach strategies.
