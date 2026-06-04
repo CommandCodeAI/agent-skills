@@ -84,6 +84,7 @@ Skills work seamlessly with **Command Code**  providing consistent, high-quality
 - **[Competitive Ads Extractor](skills/competitive-ads-extractor/)** - Extracts and analyzes competitors' ads from ad libraries to understand messaging and creative approaches that resonate.
 - **[Domain Name Brainstormer](skills/domain-name-brainstormer/)** - Generates creative domain name ideas and checks availability across multiple TLDs including .com, .io, .dev, and .ai extensions.
 - **[Lead Research Assistant](skills/lead-research-assistant/)** - Identifies and qualifies high-quality leads by analyzing your product, searching for target companies, and providing actionable outreach strategies.
+- **[Sequenzy Email Marketing](skills/sequenzy-email-marketing/)** - Operates Sequenzy lifecycle email marketing and transactional email workflows: subscribers, segments, campaigns, sequences, templates, and stats.
 
 ### Document Management
 
