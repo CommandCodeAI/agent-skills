@@ -3,7 +3,7 @@
 </h1>
 
 <a href="https://commandcode.ai/skills" target="_blank">
-    <img src="https://github.com/user-attachments/assets/4f7d30fa-9482-4db0-8f59-25fb75c6edbd">
+    <img src="https://commandcode.ai/docs/top.png" alt="Command Code skills">
 </a>
 
 A curated list of practical Skills for enhancing workflows and capabilities of coding agents.
@@ -101,6 +101,7 @@ Skills work seamlessly with **Command Code**  providing consistent, high-quality
 - **[File Organizer](skills/file-organizer/)** - Intelligently organizes files and folders by understanding context, finding duplicates, and suggesting better organizational structures.
 - **[Invoice Organizer](skills/invoice-organizer/)** - Automatically organizes invoices and receipts for tax preparation by reading files, extracting information, and renaming consistently.
 - **[Raffle Winner Picker](skills/raffle-winner-picker/)** - Randomly selects winners from lists, spreadsheets, or Google Sheets for giveaways and contests with cryptographically secure randomness.
+- **[TweetClaw Social Automation](skills/tweetclaw-social-automation/)** - Guides safe X/Twitter workflows with TweetClaw, including search tweets, search tweet replies, posting, follower export, media workflows, monitors, webhooks, and giveaway draws.
 
 
 ## Getting Started
