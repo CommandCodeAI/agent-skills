@@ -31,7 +31,7 @@ skill-name/
 ├── SKILL.md          # Required: Skill instructions and metadata
 ├── scripts/          # Optional: Helper scripts
 ├── templates/        # Optional: Document templates
-├── resources/        # Optional: Reference files
+├── references/       # Optional: Reference files
 └── LICENSE.txt       # Optional: License file (if different from repo license)
 ```
 
