@@ -77,6 +77,7 @@ Skills work seamlessly with **Command Code**  providing consistent, high-quality
 - **[Theme Factory](skills/theme-factory/)** - Applies professional font and color themes to artifacts including slides, docs, reports, and HTML landing pages with 10 pre-set themes.
 - **[Video Downloader](skills/video-downloader/)** - Downloads videos from YouTube and other platforms for offline viewing, editing, or archival with support for various formats and quality options.
 - **[YouTube Transcript](skills/youtube-transcript/)** - Downloads transcripts and subtitles from YouTube videos using yt-dlp. Supports manual subtitles, auto-generated captions, and optional Whisper transcription fallback.
+- **[小红书图文与实况图·红鸦 AI](skills/redya-xiaohongshu/)** - Generate illustrated Xiaohongshu posts and Live Photos from a brief, product photos, or a reference note using RedYA credits.
 
 ### Business Operations
 
