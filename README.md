@@ -65,6 +65,7 @@ Skills work seamlessly with **Command Code**  providing consistent, high-quality
 ### Content & Communication
 
 - **[Content Research Writer](skills/content-research-writer/)** - Assists in writing high-quality content by conducting research, adding citations, improving hooks, and providing section-by-section feedback.
+- **[Dopamine Talk](skills/dopamine-talk/)** - Strips file-path recaps, trailing hedging disclaimers, boilerplate padding, and unasked critic-gates from coding agent replies.
 - **[Internal Comms](skills/internal-comms/)** - Helps write internal communications including 3P updates, company newsletters, FAQs, status reports, and project updates using company-specific formats.
 - **[Meeting Insights Analyzer](skills/meeting-insights-analyzer/)** - Analyzes meeting transcripts to uncover behavioral patterns including conflict avoidance, speaking ratios, filler words, and leadership style.
 - **[NotebookLM](skills/notebooklm-skill/)** - Query Google NotebookLM notebooks directly for source-grounded, citation-backed answers from Gemini with browser automation, library management, and persistent authentication.
